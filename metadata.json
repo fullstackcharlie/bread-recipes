@@ -1,0 +1,5 @@
+{
+  "name": "Bread Calculator",
+  "description": "An application to view, create, edit, and save bread recipes using baker's percentages. Users can import recipes from text or URLs using AI, adjust ingredients, and save customized recipes to their personal library.",
+  "requestFramePermissions": []
+}
